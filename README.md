@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Información del Proyecto
 
-**Autor:** [Tu Nombre Completo]  
+**Autor:** Kerry Alejandro Herrera Garcia  
 **Descripción:** Este proyecto contiene 40 ejercicios fundamentales de Kotlin organizados en 6 bloques temáticos.
 
 ## 📚 Contenido del Taller
